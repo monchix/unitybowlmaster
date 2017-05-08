@@ -19,12 +19,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1920
-    height: 948
-  m_MinSize: {x: 811, y: 471}
-  m_MaxSize: {x: 22006, y: 14021}
+    width: 1587
+    height: 764
+  m_MinSize: {x: 642, y: 492}
+  m_MaxSize: {x: 22012, y: 14042}
   vertical: 0
-  controlID: 7056
+  controlID: 213
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -47,10 +47,10 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 804
-    y: 91
-    width: 485
-    height: 474
+    x: 830
+    y: 135
+    width: 399
+    height: 378
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
   m_Stats: 0
@@ -59,10 +59,10 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -242.5
-    m_HBaseRangeMax: 242.5
-    m_VBaseRangeMin: -228.5
-    m_VBaseRangeMax: 228.5
+    m_HBaseRangeMin: -199.5
+    m_HBaseRangeMax: 199.5
+    m_VBaseRangeMin: -180.5
+    m_VBaseRangeMax: 180.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -79,25 +79,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 485
-      height: 457
+      width: 399
+      height: 361
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 242.5, y: 228.5}
+    m_Translation: {x: 199.5, y: 180.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -242.5
-      y: -228.5
-      width: 485
-      height: 457
+      x: -199.5
+      y: -180.5
+      width: 399
+      height: 361
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 485, y: 474}
+  m_LastWindowPixelSize: {x: 399, y: 378}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -119,12 +119,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 468
-    height: 948
-  m_MinSize: {x: 232, y: 471}
-  m_MaxSize: {x: 10002, y: 14021}
+    width: 389
+    height: 764
+  m_MinSize: {x: 232, y: 492}
+  m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 7057
+  controlID: 64
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,10 +141,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 468
-    height: 394
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+    width: 389
+    height: 321
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 5}
   m_Panes:
   - {fileID: 5}
@@ -172,15 +172,15 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 91
-    width: 466
-    height: 373
+    x: 162
+    y: 135
+    width: 387
+    height: 300
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d8f1ffff
-    m_LastClickedID: -3624
-    m_ExpandedIDs: e8f6ffff14f8ffffd2fbffff000000003829000070290000c2290000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 5ef8ffffcefbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -218,11 +218,11 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 394
-    width: 468
-    height: 554
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+    y: 321
+    width: 389
+    height: 443
+  m_MinSize: {x: 232, y: 271}
+  m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 7}
   m_Panes:
   - {fileID: 7}
@@ -252,10 +252,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 485
-    width: 466
-    height: 533
+    x: 162
+    y: 456
+    width: 387
+    height: 422
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -267,20 +267,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: M:\Desarrollo\Proyectos\Udemy-Unity-Ben Tristem\Bowlmaster-Udemy-Ben
-    Tristem
+  m_LastProjectPath: M:\Github\unitybowlmaster\Bowlmaster
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 68260000
-    m_LastClickedID: 9832
-    m_ExpandedIDs: 00000000102500003a2500002a260000ac280000ae280000b0280000b228000000ca9a3bffffff7f
+    m_SelectedIDs: 44250000
+    m_LastClickedID: 9540
+    m_ExpandedIDs: 00000000122500004425000036260000c6280000c8280000ca280000cc28000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -308,7 +307,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000102500003a2500002a260000ac280000ae280000b0280000b228000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000122500004425000036260000c6280000c8280000ca280000cc280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -333,8 +332,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: d8f1ffff
-    m_LastClickedInstanceID: -3624
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 84050000fc040000284ef9ff9a0500000a050000fe040000
     m_RenameOverlay:
@@ -360,7 +359,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 8}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 110
 --- !u!114 &8
@@ -479,14 +478,14 @@ MonoBehaviour:
   - {fileID: 16}
   m_Position:
     serializedVersion: 2
-    x: 468
+    x: 389
     y: 0
-    width: 823
-    height: 948
-  m_MinSize: {x: 304, y: 342}
-  m_MaxSize: {x: 8004, y: 8042}
+    width: 680
+    height: 764
+  m_MinSize: {x: 308, y: 342}
+  m_MaxSize: {x: 8008, y: 8042}
   vertical: 1
-  controlID: 7035
+  controlID: 188
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -505,12 +504,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 823
-    height: 495
-  m_MinSize: {x: 304, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+    width: 680
+    height: 399
+  m_MinSize: {x: 308, y: 221}
+  m_MaxSize: {x: 8008, y: 4021}
   vertical: 0
-  controlID: 7036
+  controlID: 130
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -527,10 +526,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 334
-    height: 495
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+    width: 277
+    height: 399
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -558,19 +557,19 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 470
-    y: 91
-    width: 330
-    height: 474
+    x: 553
+    y: 135
+    width: 273
+    height: 378
   m_SceneLighting: 1
-  lastFramingTime: 1609.9626080592968
+  lastFramingTime: 9624.726426073374
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -376.21826, y: -372.20038, z: 1678.4161}
+    m_Target: {x: -0.9978485, y: 8.823471, z: 1793.8906}
     speed: 2
-    m_Value: {x: -376.21826, y: -372.20038, z: 1678.4161}
+    m_Value: {x: -0.9978485, y: 8.823471, z: 1793.8906}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -597,9 +596,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 1318.921
+    m_Target: 369.34134
     speed: 2
-    m_Value: 1318.921
+    m_Value: 369.34134
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -624,12 +623,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 334
+    x: 277
     y: 0
-    width: 489
-    height: 495
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+    width: 403
+    height: 399
+  m_MinSize: {x: 104, y: 121}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 15}
@@ -727,13 +726,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 495
-    width: 823
-    height: 453
-  m_MinSize: {x: 204, y: 121}
-  m_MaxSize: {x: 8004, y: 4021}
+    y: 399
+    width: 680
+    height: 365
+  m_MinSize: {x: 208, y: 121}
+  m_MaxSize: {x: 8008, y: 4021}
   vertical: 0
-  controlID: 6946
+  controlID: 189
 --- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -750,10 +749,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 560
-    height: 453
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+    width: 462
+    height: 365
+  m_MinSize: {x: 104, y: 121}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 18}
@@ -836,10 +835,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 470
-    y: 586
-    width: 556
-    height: 432
+    x: 553
+    y: 534
+    width: 458
+    height: 344
 --- !u!114 &20
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -854,10 +853,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 560
+    x: 462
     y: 0
-    width: 263
-    height: 453
+    width: 218
+    height: 365
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 21}
@@ -887,10 +886,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1030
-    y: 586
-    width: 259
-    height: 432
+    x: 1015
+    y: 534
+    width: 214
+    height: 344
   m_AnimEditor: {fileID: 0}
   m_Locked: 0
 --- !u!114 &22
@@ -907,18 +906,18 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1291
+    x: 1069
     y: 0
-    width: 629
-    height: 948
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 24}
+    width: 518
+    height: 764
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 23}
   m_Panes:
   - {fileID: 23}
   - {fileID: 24}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &23
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -940,10 +939,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1293
-    y: 91
-    width: 627
-    height: 927
+    x: 1233
+    y: 135
+    width: 516
+    height: 743
   m_IsSceneBased: 0
   m_TestTypeToolbarIndex: 1
   m_PlayModeTestListGUI:
@@ -1015,7 +1014,7 @@ MonoBehaviour:
       fullName: M:/Desarrollo/Proyectos/Udemy-Unity-Ben Tristem/Bowlmaster-Udemy-Ben
         Tristem/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
       resultStatus: 1
-      duration: 0.5354543
+      duration: 0.6253958
       messages: 
       output: 
       stacktrace: 
@@ -1026,7 +1025,7 @@ MonoBehaviour:
       name: ActionMasterTest
       fullName: ActionMasterTest
       resultStatus: 1
-      duration: 0.5275241
+      duration: 0.6133295
       messages: 
       output: 
       stacktrace: 
@@ -1037,7 +1036,7 @@ MonoBehaviour:
       name: T01StrikeReturnsEndTurn
       fullName: ActionMasterTest.T01StrikeReturnsEndTurn
       resultStatus: 1
-      duration: 0.0296411
+      duration: 0.0293325
       messages: 
       output: "pins hit 10\r\nbowl: 1\r\n"
       stacktrace: 
@@ -1048,9 +1047,9 @@ MonoBehaviour:
       name: T02Bowl1to9ReturnsTidy
       fullName: ActionMasterTest.T02Bowl1to9ReturnsTidy
       resultStatus: 1
-      duration: 0.0146502
+      duration: 0.0163753
       messages: 
-      output: "pins hit 1\r\nbowl: 1\r\n"
+      output: "pins hit 3\r\nbowl: 1\r\n"
       stacktrace: 
       notRunnable: 0
       ignoredOrSkipped: 0
@@ -1059,9 +1058,9 @@ MonoBehaviour:
       name: T03Bowl2ThrowsReturnsEndTurn
       fullName: ActionMasterTest.T03Bowl2ThrowsReturnsEndTurn
       resultStatus: 1
-      duration: 0.0135534
+      duration: 0.0151881
       messages: 
-      output: "pins hit 3\r\nbowl: 1\r\npins hit 6\r\nbowl: 2\r\n"
+      output: "pins hit 7\r\nbowl: 1\r\npins hit 2\r\nbowl: 2\r\n"
       stacktrace: 
       notRunnable: 0
       ignoredOrSkipped: 0
@@ -1070,7 +1069,7 @@ MonoBehaviour:
       name: T04Ball20NoRewardReturnsEndGame
       fullName: ActionMasterTest.T04Ball20NoRewardReturnsEndGame
       resultStatus: 1
-      duration: 0.0562555
+      duration: 0.0549992
       messages: 
       output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
         3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
@@ -1087,7 +1086,7 @@ MonoBehaviour:
       name: T04Ball21ReturnsEndGame
       fullName: ActionMasterTest.T04Ball21ReturnsEndGame
       resultStatus: 1
-      duration: 0.0475055
+      duration: 0.0664612
       messages: 
       output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
         3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
@@ -1104,7 +1103,7 @@ MonoBehaviour:
       name: T05Ball20StrikeReturnTidy
       fullName: ActionMasterTest.T05Ball20StrikeReturnTidy
       resultStatus: 1
-      duration: 0.046711
+      duration: 0.0594745
       messages: 
       output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
         3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
@@ -1121,7 +1120,7 @@ MonoBehaviour:
       name: T05CheckResetAtSpareinLastFrame
       fullName: ActionMasterTest.T05CheckResetAtSpareinLastFrame
       resultStatus: 1
-      duration: 0.0301776
+      duration: 0.0333437
       messages: 
       output: "pins hit 10\r\nbowl: 1\r\npins hit 10\r\nbowl: 3\r\npins hit 10\r\nbowl:
         5\r\npins hit 10\r\nbowl: 7\r\npins hit 10\r\nbowl: 9\r\npins hit 10\r\nbowl:
@@ -1135,7 +1134,7 @@ MonoBehaviour:
       name: T06Strike19Ball20NotStrikeTidy
       fullName: ActionMasterTest.T06Strike19Ball20NotStrikeTidy
       resultStatus: 1
-      duration: 0.0685772
+      duration: 0.0537116
       messages: 
       output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
         3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
@@ -1152,7 +1151,7 @@ MonoBehaviour:
       name: T07Strike19NoPinsin20Reward21Tidy
       fullName: ActionMasterTest.T07Strike19NoPinsin20Reward21Tidy
       resultStatus: 1
-      duration: 0.0459199
+      duration: 0.0707486
       messages: 
       output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
         3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
@@ -1169,7 +1168,7 @@ MonoBehaviour:
       name: T07Strike2BallReturnEndTurn
       fullName: ActionMasterTest.T07Strike2BallReturnEndTurn
       resultStatus: 1
-      duration: 0.0168214
+      duration: 0.022347
       messages: 
       output: "pins hit 0\r\nbowl: 1\r\npins hit 10\r\nbowl: 2\r\npins hit 5\r\nbowl:
         3\r\npins hit 1\r\nbowl: 4\r\n"
@@ -1181,7 +1180,7 @@ MonoBehaviour:
       name: T08Dondi10thFrameTurkey
       fullName: ActionMasterTest.T08Dondi10thFrameTurkey
       resultStatus: 1
-      duration: 0.0500312
+      duration: 0.0625246
       messages: 
       output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
         3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
@@ -1198,20 +1197,25 @@ MonoBehaviour:
       name: T08ZeroHitFirstBallthenAnyReturnEndTurn
       fullName: ActionMasterTest.T08ZeroHitFirstBallthenAnyReturnEndTurn
       resultStatus: 1
-      duration: 0.0166986
+      duration: 0.0154185
       messages: 
       output: "pins hit 0\r\nbowl: 1\r\npins hit 8\r\nbowl: 2\r\n"
       stacktrace: 
       notRunnable: 0
       ignoredOrSkipped: 0
       description: 
-    m_ResultText: "T03Bowl2ThrowsReturnsEndTurn (0.014s)\n---\npins hit 3\r\nbowl:
-      1\r\npins hit 6\r\nbowl: 2"
+    m_ResultText: "T08Dondi10thFrameTurkey (0.063s)\n---\npins hit 1\r\nbowl: 1\r\npins
+      hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl: 3\r\npins hit 1\r\nbowl: 4\r\npins hit
+      1\r\nbowl: 5\r\npins hit 1\r\nbowl: 6\r\npins hit 1\r\nbowl: 7\r\npins hit 1\r\nbowl:
+      8\r\npins hit 1\r\nbowl: 9\r\npins hit 1\r\nbowl: 10\r\npins hit 1\r\nbowl:
+      11\r\npins hit 1\r\nbowl: 12\r\npins hit 1\r\nbowl: 13\r\npins hit 1\r\nbowl:
+      14\r\npins hit 1\r\nbowl: 15\r\npins hit 1\r\nbowl: 16\r\npins hit 1\r\nbowl:
+      17\r\npins hit 1\r\nbowl: 18\r\npins hit 10\r\npins hit 10\r\npins hit 10"
     m_ResultStacktrace: 
     m_TestListState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: f6ad6e2b
-      m_LastClickedID: 728673782
+      m_SelectedIDs: 0d78690f
+      m_LastClickedID: 258570253
       m_ExpandedIDs: dd819ad5174b722defa06330573d445dc24dbf6fffffff7f
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -1252,10 +1256,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1293
-    y: 91
-    width: 627
-    height: 927
+    x: 1396
+    y: 129
+    width: 516
+    height: 743
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
