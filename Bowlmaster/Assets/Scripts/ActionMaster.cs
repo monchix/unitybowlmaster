@@ -63,7 +63,7 @@ public class ActionMaster
     }
 
 
-    public Action Bowl(int pins)
+    private Action Bowl(int pins)
     {
 
         Debug.Log("pins hit " + pins);

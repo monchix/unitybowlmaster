@@ -19,12 +19,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1587
-    height: 764
-  m_MinSize: {x: 817, y: 492}
-  m_MaxSize: {x: 22012, y: 14042}
+    width: 1920
+    height: 948
+  m_MinSize: {x: 811, y: 471}
+  m_MaxSize: {x: 22006, y: 14021}
   vertical: 0
-  controlID: 193
+  controlID: 7056
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -47,10 +47,10 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 897
-    y: 129
-    width: 495
-    height: 378
+    x: 804
+    y: 91
+    width: 485
+    height: 474
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
   m_Stats: 0
@@ -59,10 +59,10 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -247.5
-    m_HBaseRangeMax: 247.5
-    m_VBaseRangeMin: -180.5
-    m_VBaseRangeMax: 180.5
+    m_HBaseRangeMin: -242.5
+    m_HBaseRangeMax: 242.5
+    m_VBaseRangeMin: -228.5
+    m_VBaseRangeMax: 228.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -79,25 +79,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 495
-      height: 361
+      width: 485
+      height: 457
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 247.5, y: 180.5}
+    m_Translation: {x: 242.5, y: 228.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -247.5
-      y: -180.5
-      width: 495
-      height: 361
+      x: -242.5
+      y: -228.5
+      width: 485
+      height: 457
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 495, y: 378}
+  m_LastWindowPixelSize: {x: 485, y: 474}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -119,12 +119,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 232
-    height: 764
-  m_MinSize: {x: 232, y: 492}
-  m_MaxSize: {x: 10002, y: 14042}
+    width: 468
+    height: 948
+  m_MinSize: {x: 232, y: 471}
+  m_MaxSize: {x: 10002, y: 14021}
   vertical: 1
-  controlID: 138
+  controlID: 7057
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,8 +141,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 232
-    height: 321
+    width: 468
+    height: 394
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 5}
@@ -172,15 +172,15 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 325
-    y: 129
-    width: 230
-    height: 300
+    x: 0
+    y: 91
+    width: 466
+    height: 373
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: d4fbffff00000000
+    m_SelectedIDs: d8f1ffff
+    m_LastClickedID: -3624
+    m_ExpandedIDs: e8f6ffff14f8ffffd2fbffff000000003829000070290000c2290000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -218,11 +218,11 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 321
-    width: 232
-    height: 443
-  m_MinSize: {x: 232, y: 271}
-  m_MaxSize: {x: 10002, y: 10021}
+    y: 394
+    width: 468
+    height: 554
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 7}
   m_Panes:
   - {fileID: 7}
@@ -252,10 +252,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 325
-    y: 450
-    width: 230
-    height: 422
+    x: 0
+    y: 485
+    width: 466
+    height: 533
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -267,20 +267,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: M:\Desarrollo\Proyectos\Udemy-Unity-Ben Tristem\Bowlmaster-Udemy-Ben
     Tristem
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 76260000
-    m_LastClickedID: 9846
-    m_ExpandedIDs: 000000000c25000032250000222600009428000096280000982800009a28000000ca9a3bffffff7f
+    m_SelectedIDs: 68260000
+    m_LastClickedID: 9832
+    m_ExpandedIDs: 00000000102500003a2500002a260000ac280000ae280000b0280000b228000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -308,7 +308,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000c25000032250000222600009428000096280000982800009a280000
+    m_ExpandedIDs: 00000000102500003a2500002a260000ac280000ae280000b0280000b228000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -333,8 +333,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: d8f1ffff
+    m_LastClickedInstanceID: -3624
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 84050000fc040000284ef9ff9a0500000a050000fe040000
     m_RenameOverlay:
@@ -360,7 +360,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 101}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 110
 --- !u!114 &8
@@ -479,14 +479,14 @@ MonoBehaviour:
   - {fileID: 16}
   m_Position:
     serializedVersion: 2
-    x: 232
+    x: 468
     y: 0
-    width: 837
-    height: 764
-  m_MinSize: {x: 308, y: 342}
-  m_MaxSize: {x: 8008, y: 8042}
+    width: 823
+    height: 948
+  m_MinSize: {x: 304, y: 342}
+  m_MaxSize: {x: 8004, y: 8042}
   vertical: 1
-  controlID: 194
+  controlID: 7035
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -505,12 +505,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 837
-    height: 399
-  m_MinSize: {x: 308, y: 221}
-  m_MaxSize: {x: 8008, y: 4021}
+    width: 823
+    height: 495
+  m_MinSize: {x: 304, y: 221}
+  m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 115
+  controlID: 7036
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -527,8 +527,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 338
-    height: 399
+    width: 334
+    height: 495
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 13}
@@ -558,19 +558,19 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 559
-    y: 129
-    width: 334
-    height: 378
+    x: 470
+    y: 91
+    width: 330
+    height: 474
   m_SceneLighting: 1
-  lastFramingTime: 9624.726426073374
+  lastFramingTime: 1609.9626080592968
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.9978485, y: 8.823471, z: 1793.8906}
+    m_Target: {x: -376.21826, y: -372.20038, z: 1678.4161}
     speed: 2
-    m_Value: {x: -0.9978485, y: 8.823471, z: 1793.8906}
+    m_Value: {x: -376.21826, y: -372.20038, z: 1678.4161}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -597,9 +597,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 369.34134
+    m_Target: 1318.921
     speed: 2
-    m_Value: 369.34134
+    m_Value: 1318.921
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -624,12 +624,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 338
+    x: 334
     y: 0
-    width: 499
-    height: 399
-  m_MinSize: {x: 104, y: 121}
-  m_MaxSize: {x: 4004, y: 4021}
+    width: 489
+    height: 495
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 15}
@@ -727,13 +727,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 399
-    width: 837
-    height: 365
-  m_MinSize: {x: 208, y: 121}
-  m_MaxSize: {x: 8008, y: 4021}
+    y: 495
+    width: 823
+    height: 453
+  m_MinSize: {x: 204, y: 121}
+  m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 195
+  controlID: 6946
 --- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -750,16 +750,16 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 569
-    height: 365
-  m_MinSize: {x: 104, y: 121}
-  m_MaxSize: {x: 4004, y: 4021}
-  m_ActualView: {fileID: 18}
+    width: 560
+    height: 453
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 18}
   - {fileID: 19}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -836,10 +836,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 462
-    y: 532
-    width: 565
-    height: 344
+    x: 470
+    y: 586
+    width: 556
+    height: 432
 --- !u!114 &20
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -854,12 +854,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 569
+    x: 560
     y: 0
-    width: 268
-    height: 365
-  m_MinSize: {x: 104, y: 121}
-  m_MaxSize: {x: 4004, y: 4021}
+    width: 263
+    height: 453
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -887,10 +887,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1128
-    y: 528
-    width: 264
-    height: 344
+    x: 1030
+    y: 586
+    width: 259
+    height: 432
   m_AnimEditor: {fileID: 0}
   m_Locked: 0
 --- !u!114 &22
@@ -907,12 +907,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1069
+    x: 1291
     y: 0
-    width: 518
-    height: 764
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+    width: 629
+    height: 948
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 24}
   m_Panes:
   - {fileID: 23}
@@ -940,10 +940,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1299
-    y: 133
-    width: 516
-    height: 743
+    x: 1293
+    y: 91
+    width: 627
+    height: 927
   m_IsSceneBased: 0
   m_TestTypeToolbarIndex: 1
   m_PlayModeTestListGUI:
@@ -1014,8 +1014,8 @@ MonoBehaviour:
       name: Assembly-CSharp-Editor.dll
       fullName: M:/Desarrollo/Proyectos/Udemy-Unity-Ben Tristem/Bowlmaster-Udemy-Ben
         Tristem/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
-      resultStatus: 0
-      duration: 0
+      resultStatus: 1
+      duration: 0.5354543
       messages: 
       output: 
       stacktrace: 
@@ -1025,26 +1025,193 @@ MonoBehaviour:
     - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ActionMasterTest]'
       name: ActionMasterTest
       fullName: ActionMasterTest
-      resultStatus: 0
-      duration: 0
+      resultStatus: 1
+      duration: 0.5275241
       messages: 
       output: 
       stacktrace: 
       notRunnable: 0
       ignoredOrSkipped: 0
       description: 
-    m_ResultText: "T06Strike19Ball20NotStrikeTidy (0.041s)\n---\npins hit 1\r\nbowl:
-      1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl: 3\r\npins hit 1\r\nbowl: 4\r\npins
-      hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl: 6\r\npins hit 1\r\nbowl: 7\r\npins hit
-      1\r\nbowl: 8\r\npins hit 1\r\nbowl: 9\r\npins hit 1\r\nbowl: 10\r\npins hit
-      1\r\nbowl: 11\r\npins hit 1\r\nbowl: 12\r\npins hit 1\r\nbowl: 13\r\npins hit
-      4\r\nbowl: 14\r\npins hit 3\r\nbowl: 15\r\npins hit 2\r\nbowl: 16\r\npins hit
-      4\r\nbowl: 17\r\npins hit 6\r\nbowl: 18\r\npins hit 10\r\npins hit 5"
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ActionMasterTest][T01StrikeReturnsEndTurn]'
+      name: T01StrikeReturnsEndTurn
+      fullName: ActionMasterTest.T01StrikeReturnsEndTurn
+      resultStatus: 1
+      duration: 0.0296411
+      messages: 
+      output: "pins hit 10\r\nbowl: 1\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ActionMasterTest][T02Bowl1to9ReturnsTidy]'
+      name: T02Bowl1to9ReturnsTidy
+      fullName: ActionMasterTest.T02Bowl1to9ReturnsTidy
+      resultStatus: 1
+      duration: 0.0146502
+      messages: 
+      output: "pins hit 1\r\nbowl: 1\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ActionMasterTest][T03Bowl2ThrowsReturnsEndTurn]'
+      name: T03Bowl2ThrowsReturnsEndTurn
+      fullName: ActionMasterTest.T03Bowl2ThrowsReturnsEndTurn
+      resultStatus: 1
+      duration: 0.0135534
+      messages: 
+      output: "pins hit 3\r\nbowl: 1\r\npins hit 6\r\nbowl: 2\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ActionMasterTest][T04Ball20NoRewardReturnsEndGame]'
+      name: T04Ball20NoRewardReturnsEndGame
+      fullName: ActionMasterTest.T04Ball20NoRewardReturnsEndGame
+      resultStatus: 1
+      duration: 0.0562555
+      messages: 
+      output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
+        3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
+        6\r\npins hit 1\r\nbowl: 7\r\npins hit 1\r\nbowl: 8\r\npins hit 1\r\nbowl:
+        9\r\npins hit 1\r\nbowl: 10\r\npins hit 1\r\nbowl: 11\r\npins hit 1\r\nbowl:
+        12\r\npins hit 1\r\nbowl: 13\r\npins hit 1\r\nbowl: 14\r\npins hit 1\r\nbowl:
+        15\r\npins hit 1\r\nbowl: 16\r\npins hit 1\r\nbowl: 17\r\npins hit 1\r\nbowl:
+        18\r\npins hit 1\r\nbowl: 19\r\npins hit 1\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ActionMasterTest][T04Ball21ReturnsEndGame]'
+      name: T04Ball21ReturnsEndGame
+      fullName: ActionMasterTest.T04Ball21ReturnsEndGame
+      resultStatus: 1
+      duration: 0.0475055
+      messages: 
+      output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
+        3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
+        6\r\npins hit 1\r\nbowl: 7\r\npins hit 1\r\nbowl: 8\r\npins hit 1\r\nbowl:
+        9\r\npins hit 1\r\nbowl: 10\r\npins hit 1\r\nbowl: 11\r\npins hit 1\r\nbowl:
+        12\r\npins hit 1\r\nbowl: 13\r\npins hit 1\r\nbowl: 14\r\npins hit 1\r\nbowl:
+        15\r\npins hit 1\r\nbowl: 16\r\npins hit 1\r\nbowl: 17\r\npins hit 1\r\nbowl:
+        18\r\npins hit 1\r\nbowl: 19\r\npins hit 9\r\npins hit 8\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ActionMasterTest][T05Ball20StrikeReturnTidy]'
+      name: T05Ball20StrikeReturnTidy
+      fullName: ActionMasterTest.T05Ball20StrikeReturnTidy
+      resultStatus: 1
+      duration: 0.046711
+      messages: 
+      output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
+        3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
+        6\r\npins hit 1\r\nbowl: 7\r\npins hit 1\r\nbowl: 8\r\npins hit 1\r\nbowl:
+        9\r\npins hit 1\r\nbowl: 10\r\npins hit 1\r\nbowl: 11\r\npins hit 1\r\nbowl:
+        12\r\npins hit 1\r\nbowl: 13\r\npins hit 1\r\nbowl: 14\r\npins hit 1\r\nbowl:
+        15\r\npins hit 1\r\nbowl: 16\r\npins hit 1\r\nbowl: 17\r\npins hit 1\r\nbowl:
+        18\r\npins hit 4\r\nbowl: 19\r\npins hit 10\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ActionMasterTest][T05CheckResetAtSpareinLastFrame]'
+      name: T05CheckResetAtSpareinLastFrame
+      fullName: ActionMasterTest.T05CheckResetAtSpareinLastFrame
+      resultStatus: 1
+      duration: 0.0301776
+      messages: 
+      output: "pins hit 10\r\nbowl: 1\r\npins hit 10\r\nbowl: 3\r\npins hit 10\r\nbowl:
+        5\r\npins hit 10\r\nbowl: 7\r\npins hit 10\r\nbowl: 9\r\npins hit 10\r\nbowl:
+        11\r\npins hit 10\r\nbowl: 13\r\npins hit 10\r\nbowl: 15\r\npins hit 10\r\nbowl:
+        17\r\npins hit 4\r\nbowl: 19\r\npins hit 6\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ActionMasterTest][T06Strike19Ball20NotStrikeTidy]'
+      name: T06Strike19Ball20NotStrikeTidy
+      fullName: ActionMasterTest.T06Strike19Ball20NotStrikeTidy
+      resultStatus: 1
+      duration: 0.0685772
+      messages: 
+      output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
+        3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
+        6\r\npins hit 1\r\nbowl: 7\r\npins hit 1\r\nbowl: 8\r\npins hit 1\r\nbowl:
+        9\r\npins hit 1\r\nbowl: 10\r\npins hit 1\r\nbowl: 11\r\npins hit 1\r\nbowl:
+        12\r\npins hit 1\r\nbowl: 13\r\npins hit 4\r\nbowl: 14\r\npins hit 3\r\nbowl:
+        15\r\npins hit 2\r\nbowl: 16\r\npins hit 4\r\nbowl: 17\r\npins hit 6\r\nbowl:
+        18\r\npins hit 10\r\npins hit 5\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ActionMasterTest][T07Strike19NoPinsin20Reward21Tidy]'
+      name: T07Strike19NoPinsin20Reward21Tidy
+      fullName: ActionMasterTest.T07Strike19NoPinsin20Reward21Tidy
+      resultStatus: 1
+      duration: 0.0459199
+      messages: 
+      output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
+        3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
+        6\r\npins hit 1\r\nbowl: 7\r\npins hit 1\r\nbowl: 8\r\npins hit 1\r\nbowl:
+        9\r\npins hit 1\r\nbowl: 10\r\npins hit 1\r\nbowl: 11\r\npins hit 1\r\nbowl:
+        12\r\npins hit 1\r\nbowl: 13\r\npins hit 4\r\nbowl: 14\r\npins hit 3\r\nbowl:
+        15\r\npins hit 2\r\nbowl: 16\r\npins hit 4\r\nbowl: 17\r\npins hit 6\r\nbowl:
+        18\r\npins hit 10\r\npins hit 0\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ActionMasterTest][T07Strike2BallReturnEndTurn]'
+      name: T07Strike2BallReturnEndTurn
+      fullName: ActionMasterTest.T07Strike2BallReturnEndTurn
+      resultStatus: 1
+      duration: 0.0168214
+      messages: 
+      output: "pins hit 0\r\nbowl: 1\r\npins hit 10\r\nbowl: 2\r\npins hit 5\r\nbowl:
+        3\r\npins hit 1\r\nbowl: 4\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ActionMasterTest][T08Dondi10thFrameTurkey]'
+      name: T08Dondi10thFrameTurkey
+      fullName: ActionMasterTest.T08Dondi10thFrameTurkey
+      resultStatus: 1
+      duration: 0.0500312
+      messages: 
+      output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
+        3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
+        6\r\npins hit 1\r\nbowl: 7\r\npins hit 1\r\nbowl: 8\r\npins hit 1\r\nbowl:
+        9\r\npins hit 1\r\nbowl: 10\r\npins hit 1\r\nbowl: 11\r\npins hit 1\r\nbowl:
+        12\r\npins hit 1\r\nbowl: 13\r\npins hit 1\r\nbowl: 14\r\npins hit 1\r\nbowl:
+        15\r\npins hit 1\r\nbowl: 16\r\npins hit 1\r\nbowl: 17\r\npins hit 1\r\nbowl:
+        18\r\npins hit 10\r\npins hit 10\r\npins hit 10\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ActionMasterTest][T08ZeroHitFirstBallthenAnyReturnEndTurn]'
+      name: T08ZeroHitFirstBallthenAnyReturnEndTurn
+      fullName: ActionMasterTest.T08ZeroHitFirstBallthenAnyReturnEndTurn
+      resultStatus: 1
+      duration: 0.0166986
+      messages: 
+      output: "pins hit 0\r\nbowl: 1\r\npins hit 8\r\nbowl: 2\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    m_ResultText: "T03Bowl2ThrowsReturnsEndTurn (0.014s)\n---\npins hit 3\r\nbowl:
+      1\r\npins hit 6\r\nbowl: 2"
     m_ResultStacktrace: 
     m_TestListState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 7320ae33
-      m_LastClickedID: 867049587
+      m_SelectedIDs: f6ad6e2b
+      m_LastClickedID: 728673782
       m_ExpandedIDs: dd819ad5174b722defa06330573d445dc24dbf6fffffff7f
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -1085,10 +1252,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1396
-    y: 129
-    width: 516
-    height: 743
+    x: 1293
+    y: 91
+    width: 627
+    height: 927
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
