@@ -13,14 +13,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 162
-    y: 86
-    width: 1587
-    height: 814
+    x: -174
+    y: 148
+    width: 1670
+    height: 819
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -41,8 +41,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1587
-    height: 814
+    width: 1670
+    height: 819
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
@@ -61,7 +61,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1587
+    width: 1670
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -81,8 +81,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 794
-    width: 1587
+    y: 799
+    width: 1670
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -105,12 +105,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1587
-    height: 764
+    width: 1670
+    height: 769
   m_MinSize: {x: 638, y: 492}
   m_MaxSize: {x: 22012, y: 14042}
   vertical: 0
-  controlID: 445
+  controlID: 215
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -129,12 +129,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 389
-    height: 764
+    width: 409
+    height: 769
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 446
+  controlID: 64
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -151,10 +151,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 389
-    height: 321
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+    width: 409
+    height: 323
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -175,9 +175,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 321
-    width: 389
-    height: 443
+    y: 323
+    width: 409
+    height: 446
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 19}
@@ -203,14 +203,14 @@ MonoBehaviour:
   - {fileID: 13}
   m_Position:
     serializedVersion: 2
-    x: 389
+    x: 409
     y: 0
-    width: 680
-    height: 764
+    width: 716
+    height: 769
   m_MinSize: {x: 304, y: 342}
   m_MaxSize: {x: 8008, y: 8042}
   vertical: 1
-  controlID: 489
+  controlID: 155
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -229,12 +229,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 680
-    height: 399
+    width: 716
+    height: 402
   m_MinSize: {x: 304, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 490
+  controlID: 132
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,8 +251,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 277
-    height: 399
+    width: 292
+    height: 402
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 22}
@@ -274,10 +274,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 277
+    x: 292
     y: 0
-    width: 403
-    height: 399
+    width: 424
+    height: 402
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
@@ -303,13 +303,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 399
-    width: 680
-    height: 365
+    y: 402
+    width: 716
+    height: 367
   m_MinSize: {x: 208, y: 121}
   m_MaxSize: {x: 8008, y: 4021}
   vertical: 0
-  controlID: 362
+  controlID: 156
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -326,10 +326,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 462
-    height: 365
-  m_MinSize: {x: 104, y: 121}
-  m_MaxSize: {x: 4004, y: 4021}
+    width: 486
+    height: 367
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 25}
   m_Panes:
   - {fileID: 24}
@@ -350,10 +350,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 462
+    x: 486
     y: 0
-    width: 218
-    height: 365
+    width: 230
+    height: 367
   m_MinSize: {x: 104, y: 121}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 26}
@@ -375,12 +375,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1069
+    x: 1125
     y: 0
-    width: 518
-    height: 764
-  m_MinSize: {x: 102, y: 121}
-  m_MaxSize: {x: 4002, y: 4021}
+    width: 545
+    height: 769
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 27}
   m_Panes:
   - {fileID: 27}
@@ -409,10 +409,10 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 830
-    y: 135
-    width: 399
-    height: 378
+    x: 294
+    y: 17
+    width: 420
+    height: 381
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
@@ -421,10 +421,10 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -199.5
-    m_HBaseRangeMax: 199.5
-    m_VBaseRangeMin: -180.5
-    m_VBaseRangeMax: 180.5
+    m_HBaseRangeMin: -210
+    m_HBaseRangeMax: 210
+    m_VBaseRangeMin: -182
+    m_VBaseRangeMax: 182
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -441,25 +441,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 399
-      height: 361
+      width: 420
+      height: 364
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 199.5, y: 180.5}
+    m_Translation: {x: 210, y: 182}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -199.5
-      y: -180.5
-      width: 399
-      height: 361
+      x: -210
+      y: -182
+      width: 420
+      height: 364
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 399, y: 378}
+  m_LastWindowPixelSize: {x: 420, y: 381}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -485,15 +485,15 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 162
-    y: 135
-    width: 387
-    height: 300
+    x: 0
+    y: 17
+    width: 407
+    height: 302
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: da060000
     m_LastClickedID: 0
-    m_ExpandedIDs: 5ef8ffffcefbffff00000000
+    m_ExpandedIDs: 4eb2fdffb4b6fdfff6b9fdff30befdff0cc2fdff0cc5fdff04c8fdff4accfdffe0cffdffd8d2fdffd0d5fdffc0d8fdffbcdbfdff06e0fdff46e3fdff8ae9fdffd4edfdffa6f1fdff06f5fdff4cf6fdffdefafdfffcfdfdff4afffdffce03feffcc06feffd809feff460dfeffae11feffa416feffb819feff001dfeff5421feffa624feffce29feff322efeff8031feff8834feffd838feff723dfeff6a42feffa846fefff649feff404efeffee51feff4e56feff5c5bfeffa85efefff662feff9466feffa269feffc46cfeff2271feff7275feff2e79feff927dfeff3c81feff4c84feff9e88feff048dfeff1c92feff5898feffa299fefff29dfeffa2a1feff32a7feff5eabfeffa0acfefff2b0feffa2b4feff90b9feff9abcfeffa6c2feff30c7feff1accfeff30cffeff88d4feffcadafeff2ae0feff16e5fefffee9fefffcf0feffb6f4feff2ef9feff34fcfeffa001ffffe006ffffd409ffffd80cffff2e12ffff7016ffff981affff221fffff1c22ffff1825ffff5c29ffff082dffffe234ffffb03affff943fffff1e44ffff1047ffff3c4cffff6050ffffde53ffffce56ffff405bffff405effff7a63ffff9e67ffffba6bffff4470ffff3e73ffffec77ffff427cffff9280ffff6085ffff7289ffffe08cffffc88fffff3a95ffffe099ffffb09effffaea3ffffc4a4ffff9ea8ffffe0abffffdeafffffb8b3ffffeeb6ffffaab9ffff64beffff64c2ffff70c6ffffcacaffff9acdffffecd2ffff84d7ffff40daffff44deffff16e2ffff56e5fffface9ffff88ecffff7cf0ffff06f7ffffd2fbffff000000001241000062810000fa8500009eb10000eab30000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -537,10 +537,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 162
-    y: 456
-    width: 387
-    height: 422
+    x: 0
+    y: 340
+    width: 407
+    height: 425
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -552,19 +552,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Editor
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Editor
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: M:\Github\unitybowlmaster\Bowlmaster
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c2250000
-    m_LastClickedID: 9666
-    m_ExpandedIDs: 00000000122500004425000036260000c6280000c8280000ca280000cc28000000ca9a3bffffff7f
+    m_SelectedIDs: 72260000
+    m_LastClickedID: 9842
+    m_ExpandedIDs: 00000000142500004225000034260000c4280000c6280000c8280000ca28000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -592,7 +592,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000122500004425000036260000c6280000c8280000ca280000cc28000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000142500004225000034260000c4280000c6280000c8280000ca280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -644,7 +644,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 5}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 110
 --- !u!114 &20
@@ -769,10 +769,10 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 553
-    y: 135
-    width: 273
-    height: 378
+    x: 2
+    y: 17
+    width: 288
+    height: 381
   m_SceneLighting: 1
   lastFramingTime: 9624.726426073374
   m_2DMode: 1
@@ -971,10 +971,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 553
-    y: 534
-    width: 458
-    height: 344
+    x: 2
+    y: 17
+    width: 482
+    height: 346
 --- !u!114 &26
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -997,10 +997,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1015
-    y: 534
-    width: 214
-    height: 344
+    x: 488
+    y: 17
+    width: 226
+    height: 346
   m_AnimEditor: {fileID: 0}
   m_Locked: 0
 --- !u!114 &27
@@ -1024,10 +1024,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1233
-    y: 135
-    width: 516
-    height: 743
+    x: 953
+    y: 197
+    width: 543
+    height: 748
   m_IsSceneBased: 0
   m_TestTypeToolbarIndex: 1
   m_PlayModeTestListGUI:
@@ -1099,7 +1099,7 @@ MonoBehaviour:
       fullName: M:/Desarrollo/Proyectos/Udemy-Unity-Ben Tristem/Bowlmaster-Udemy-Ben
         Tristem/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
       resultStatus: 1
-      duration: 0.6253958
+      duration: 0.8835202
       messages: 
       output: 
       stacktrace: 
@@ -1110,7 +1110,7 @@ MonoBehaviour:
       name: ActionMasterTest
       fullName: ActionMasterTest
       resultStatus: 1
-      duration: 0.6133295
+      duration: 0.6545532
       messages: 
       output: 
       stacktrace: 
@@ -1121,7 +1121,7 @@ MonoBehaviour:
       name: T01StrikeReturnsEndTurn
       fullName: ActionMasterTest.T01StrikeReturnsEndTurn
       resultStatus: 1
-      duration: 0.0293325
+      duration: 0.0286456
       messages: 
       output: "pins hit 10\r\nbowl: 1\r\n"
       stacktrace: 
@@ -1132,9 +1132,9 @@ MonoBehaviour:
       name: T02Bowl1to9ReturnsTidy
       fullName: ActionMasterTest.T02Bowl1to9ReturnsTidy
       resultStatus: 1
-      duration: 0.0163753
+      duration: 0.0126321
       messages: 
-      output: "pins hit 3\r\nbowl: 1\r\n"
+      output: "pins hit 5\r\nbowl: 1\r\n"
       stacktrace: 
       notRunnable: 0
       ignoredOrSkipped: 0
@@ -1143,9 +1143,9 @@ MonoBehaviour:
       name: T03Bowl2ThrowsReturnsEndTurn
       fullName: ActionMasterTest.T03Bowl2ThrowsReturnsEndTurn
       resultStatus: 1
-      duration: 0.0151881
+      duration: 0.0153546
       messages: 
-      output: "pins hit 7\r\nbowl: 1\r\npins hit 2\r\nbowl: 2\r\n"
+      output: "pins hit 2\r\nbowl: 1\r\npins hit 7\r\nbowl: 2\r\n"
       stacktrace: 
       notRunnable: 0
       ignoredOrSkipped: 0
@@ -1154,7 +1154,7 @@ MonoBehaviour:
       name: T04Ball20NoRewardReturnsEndGame
       fullName: ActionMasterTest.T04Ball20NoRewardReturnsEndGame
       resultStatus: 1
-      duration: 0.0549992
+      duration: 0.0588183
       messages: 
       output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
         3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
@@ -1171,7 +1171,7 @@ MonoBehaviour:
       name: T04Ball21ReturnsEndGame
       fullName: ActionMasterTest.T04Ball21ReturnsEndGame
       resultStatus: 1
-      duration: 0.0664612
+      duration: 0.07463
       messages: 
       output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
         3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
@@ -1188,7 +1188,7 @@ MonoBehaviour:
       name: T05Ball20StrikeReturnTidy
       fullName: ActionMasterTest.T05Ball20StrikeReturnTidy
       resultStatus: 1
-      duration: 0.0594745
+      duration: 0.0624841
       messages: 
       output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
         3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
@@ -1205,7 +1205,7 @@ MonoBehaviour:
       name: T05CheckResetAtSpareinLastFrame
       fullName: ActionMasterTest.T05CheckResetAtSpareinLastFrame
       resultStatus: 1
-      duration: 0.0333437
+      duration: 0.0384077
       messages: 
       output: "pins hit 10\r\nbowl: 1\r\npins hit 10\r\nbowl: 3\r\npins hit 10\r\nbowl:
         5\r\npins hit 10\r\nbowl: 7\r\npins hit 10\r\nbowl: 9\r\npins hit 10\r\nbowl:
@@ -1219,7 +1219,7 @@ MonoBehaviour:
       name: T06Strike19Ball20NotStrikeTidy
       fullName: ActionMasterTest.T06Strike19Ball20NotStrikeTidy
       resultStatus: 1
-      duration: 0.0537116
+      duration: 0.0892911
       messages: 
       output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
         3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
@@ -1236,7 +1236,7 @@ MonoBehaviour:
       name: T07Strike19NoPinsin20Reward21Tidy
       fullName: ActionMasterTest.T07Strike19NoPinsin20Reward21Tidy
       resultStatus: 1
-      duration: 0.0707486
+      duration: 0.0773214
       messages: 
       output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
         3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
@@ -1253,7 +1253,7 @@ MonoBehaviour:
       name: T07Strike2BallReturnEndTurn
       fullName: ActionMasterTest.T07Strike2BallReturnEndTurn
       resultStatus: 1
-      duration: 0.022347
+      duration: 0.0238208
       messages: 
       output: "pins hit 0\r\nbowl: 1\r\npins hit 10\r\nbowl: 2\r\npins hit 5\r\nbowl:
         3\r\npins hit 1\r\nbowl: 4\r\n"
@@ -1265,7 +1265,7 @@ MonoBehaviour:
       name: T08Dondi10thFrameTurkey
       fullName: ActionMasterTest.T08Dondi10thFrameTurkey
       resultStatus: 1
-      duration: 0.0625246
+      duration: 0.0614927
       messages: 
       output: "pins hit 1\r\nbowl: 1\r\npins hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl:
         3\r\npins hit 1\r\nbowl: 4\r\npins hit 1\r\nbowl: 5\r\npins hit 1\r\nbowl:
@@ -1282,26 +1282,164 @@ MonoBehaviour:
       name: T08ZeroHitFirstBallthenAnyReturnEndTurn
       fullName: ActionMasterTest.T08ZeroHitFirstBallthenAnyReturnEndTurn
       resultStatus: 1
-      duration: 0.0154185
+      duration: 0.0141403
       messages: 
       output: "pins hit 0\r\nbowl: 1\r\npins hit 8\r\nbowl: 2\r\n"
       stacktrace: 
       notRunnable: 0
       ignoredOrSkipped: 0
       description: 
-    m_ResultText: "T08Dondi10thFrameTurkey (0.063s)\n---\npins hit 1\r\nbowl: 1\r\npins
-      hit 1\r\nbowl: 2\r\npins hit 1\r\nbowl: 3\r\npins hit 1\r\nbowl: 4\r\npins hit
-      1\r\nbowl: 5\r\npins hit 1\r\nbowl: 6\r\npins hit 1\r\nbowl: 7\r\npins hit 1\r\nbowl:
-      8\r\npins hit 1\r\nbowl: 9\r\npins hit 1\r\nbowl: 10\r\npins hit 1\r\nbowl:
-      11\r\npins hit 1\r\nbowl: 12\r\npins hit 1\r\nbowl: 13\r\npins hit 1\r\nbowl:
-      14\r\npins hit 1\r\nbowl: 15\r\npins hit 1\r\nbowl: 16\r\npins hit 1\r\nbowl:
-      17\r\npins hit 1\r\nbowl: 18\r\npins hit 10\r\npins hit 10\r\npins hit 10"
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ScoreMasterTest]'
+      name: ScoreMasterTest
+      fullName: ScoreMasterTest
+      resultStatus: 1
+      duration: 0.2042282
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ScoreMasterTest][ID02Bowl23]'
+      name: ID02Bowl23
+      fullName: ScoreMasterTest.ID02Bowl23
+      resultStatus: 1
+      duration: 0.0105977
+      messages: 
+      output: "5\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ScoreMasterTest][ID03Bowl234]'
+      name: ID03Bowl234
+      fullName: ScoreMasterTest.ID03Bowl234
+      resultStatus: 1
+      duration: 0.0075672
+      messages: 
+      output: "5\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ScoreMasterTest][ID04Bowl2345]'
+      name: ID04Bowl2345
+      fullName: ScoreMasterTest.ID04Bowl2345
+      resultStatus: 1
+      duration: 0.007792
+      messages: 
+      output: "5\r\n9\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ScoreMasterTest][ID05Bowl23456]'
+      name: ID05Bowl23456
+      fullName: ScoreMasterTest.ID05Bowl23456
+      resultStatus: 1
+      duration: 0.0087759
+      messages: 
+      output: "5\r\n9\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ScoreMasterTest][ID06Bowl234561]'
+      name: ID06Bowl234561
+      fullName: ScoreMasterTest.ID06Bowl234561
+      resultStatus: 1
+      duration: 0.0098302
+      messages: 
+      output: "5\r\n9\r\n7\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ScoreMasterTest][ID07Bowl2345612]'
+      name: ID07Bowl2345612
+      fullName: ScoreMasterTest.ID07Bowl2345612
+      resultStatus: 1
+      duration: 0.0095895
+      messages: 
+      output: "5\r\n9\r\n7\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ScoreMasterTest][ID08BowlX1]'
+      name: ID08BowlX1
+      fullName: ScoreMasterTest.ID08BowlX1
+      resultStatus: 1
+      duration: 0.0063051
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ScoreMasterTest][ID09Bowl19]'
+      name: ID09Bowl19
+      fullName: ScoreMasterTest.ID09Bowl19
+      resultStatus: 1
+      duration: 0.0046218
+      messages: 
+      output: "0uno 2\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ScoreMasterTest][ID10Bowl123455]'
+      name: ID10Bowl123455
+      fullName: ScoreMasterTest.ID10Bowl123455
+      resultStatus: 1
+      duration: 0.00927
+      messages: 
+      output: "3\r\n7\r\n4uno 6\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ScoreMasterTest][ID11SpareBonus]'
+      name: ID11SpareBonus
+      fullName: ScoreMasterTest.ID11SpareBonus
+      resultStatus: 1
+      duration: 0.0116941
+      messages: 
+      output: "3\r\n8\r\n4uno 8\r\n4dos 8\r\n4 tres 8\r\n13\r\n6\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ScoreMasterTest][ID12SpareBonus2]'
+      name: ID12SpareBonus2
+      fullName: ScoreMasterTest.ID12SpareBonus2
+      resultStatus: 1
+      duration: 0.0163188
+      messages: 
+      output: "3\r\n8\r\n4uno 12\r\n4dos 12\r\n4 tres 12\r\n13\r\n6\r\n8\r\n10uno
+        12\r\n10dos 12\r\n10 tres 12\r\n16\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    - id: '[Bowlmaster-Udemy-Ben Tristem][Assembly-CSharp-Editor.dll][ScoreMasterTest][T00PassingTest]'
+      name: T00PassingTest
+      fullName: ScoreMasterTest.T00PassingTest
+      resultStatus: 1
+      duration: 0.0033216
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+    m_ResultText: ScoreMasterTest (0.204s)
     m_ResultStacktrace: 
     m_TestListState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0d78690f
-      m_LastClickedID: 258570253
-      m_ExpandedIDs: dd819ad5174b722defa06330573d445dc24dbf6fffffff7f
+      m_SelectedIDs: 1befd9f3
+      m_LastClickedID: -203821285
+      m_ExpandedIDs: dd819ad51befd9f3174b722defa06330573d445dc24dbf6fffffff7f
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1341,9 +1479,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1396
-    y: 129
-    width: 516
+    x: 1206
+    y: 135
+    width: 543
     height: 743
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
