@@ -27,75 +27,38 @@ public class ScoreMaster {
 
     // Return a List of individual frame scores, Not cumulative
     public static List<int> ScoreFrames(List<int> rolls) {
-
         List<int> frameList = new List<int>();
-        List<int> rollsbyFrame = new List<int>();
-       
-        int rollslenght = 0;
-              
-        //I considerer only pair sets of bowls
-        if (rolls.Count % 2 == 0) rollslenght = rolls.Count;
-        else rollslenght = rolls.Count-1;
-        
-
-        for (int i=0; i< rollslenght; i=i+2) {
-            // List to save the score of each middle frame
-            rollsbyFrame = rolls.GetRange(i,2);
-            //Reset the score of each frame
-            int score = 0;
-            //PRocess to deal with spares or strikes
-            int spareScore = rollsbyFrame[0] + rollsbyFrame[1];
-                     
-            if (rollsbyFrame[0] == 10)
-            {
-                //count the rolls left in the score, with this i can 
-                // check the   acumulative scores strkes
-                int rollsleft = rolls.Count - (i+1);
-                //if is impair i have {10,3,2}= 15 or {5,2, 10, 2,3}={7,15,5}
-                if ((rollsleft) >= 2) 
+                
+        for (int i=1; i< rolls.Count; i+=2) { // index i is the 2nd bowl
+            int frameScore = rolls[i - 1] + rolls[i];
+            if (rolls[i - 1] == 10)   // Strike Situation
+            {                
+                if ((rolls.Count - i) >= 2) //Deal with last frame
                 {
-                    score = CalculateScore(rolls, i);
-                    frameList.Add(score);
-                    // Discount 1 because is the 1st frame and if i add 2 will lost one score  {10, 1, 2} = 13 score    
-                    i--;
+                    frameScore += rolls[i+1];
+                    frameList.Add(frameScore);
+                    i--; // Discount 1 so i can deal with the next frame
                 } 
                     
-            } else if (spareScore == 10)
+            } else if (frameScore == 10) // Spare Situation
                     {
-                    //Deal with spares in the middle
-                    //otherwise i will not record the score
-                    // Here i check the total rolls.
-                        if (i + 2 != rolls.Count)
+                    if ((rolls.Count - i) >= 2) // I only add when im not in the final frame
                         {
-                            score = CalculateScore(rolls, i);
-                            frameList.Add(score);
-                            }
-
+                            frameScore += rolls[i + 1];
+                            frameList.Add(frameScore);
                         }
-            else
-                { if (frameList.Count<10) { 
-                    foreach (int roll in rollsbyFrame)
-                            {score += roll;}
-                                              
-                        frameList.Add(score);
                     }
+            else //Normal Situation
+            {   //Prevent the 11th frame
+                if (frameList.Count<10) { 
+                    frameList.Add(frameScore);
                 }
-        }
-                     
+            }
+        }               
         return frameList;
-
-
      }
 
-    private static int CalculateScore(List<int> rolls, int i) {
-        int score = 0;
-        List <int> xframes = rolls.GetRange(i, 3);
-        foreach (int roll in xframes)
-        {
-            score += roll;
-        }
-       return score;
-    }
+
 
 } 
               

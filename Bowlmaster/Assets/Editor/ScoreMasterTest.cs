@@ -308,6 +308,46 @@ public class ScoreMasterTest {
 
     }
 
+    [Category("Verification")]
+    [Test]
+    public void TG03GoldenCopyB3of3()
+    {
+        int[] rolls = { 10, 10, 9, 0, 10, 7,3, 10, 8,1, 6,3, 6,2, 9,1,10 };
+        int[] totalS = { 29, 48, 57, 77, 97, 116, 125, 134, 142, 162 };
+
+
+
+        Assert.AreEqual(totalS.ToList(), ScoreMaster.ScoreCumulative(rolls.ToList()));
+
+    }
+
+    [Category("Verification")]
+    [Test]
+    public void TG03GoldenCopyC1of3()
+    {
+        int[] rolls = { 7,2, 10, 10, 10, 10, 7, 3, 10, 10, 9,1, 10,10,9};
+        int[] totalS = { 9, 39, 69, 96, 116, 136, 165, 185, 205, 234 };
+
+
+
+        Assert.AreEqual(totalS.ToList(), ScoreMaster.ScoreCumulative(rolls.ToList()));
+
+    }
+
+    [Category("Verification")]
+    [Test]
+    public void TG03GoldenCopyC2of3()
+    {
+        int[] rolls = { 10, 10, 10, 10, 9,0, 10, 10, 10, 10, 10,9,1 };
+        int[] totalS = { 30, 60, 89, 108, 117, 147, 177, 207, 236, 256 };
+
+
+
+        Assert.AreEqual(totalS.ToList(), ScoreMaster.ScoreCumulative(rolls.ToList()));
+
+    }
+
+
 
 
 
